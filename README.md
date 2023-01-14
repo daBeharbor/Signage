@@ -1,4 +1,1 @@
 # Signage
-# test
-# qwer
-# asdf
