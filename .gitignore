@@ -1,2 +1,3 @@
-.gitsecret/keys/random_seed
-!*.secret
+secret/
+__pycache__/
+*.pyc
